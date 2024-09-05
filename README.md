@@ -1,6 +1,8 @@
 # Time-Series-Trading Stocks and Predicting
  To predict stock prices or market behavior over short or long periods to make informed trading decisions. 
 Project: Time-Series Analysis and Stock Prediction for Tesla, Ford, and GM
+![image](https://github.com/user-attachments/assets/35bfb58b-3d07-459c-b260-084d41bdcf1a)
+
 Description:
 
 In this project, I conducted a comprehensive time-series analysis and predictive modeling on the stock data of Tesla (TSLA), Ford (F), and General Motors (GM) over a four-year period (2020-2024). The goal was to analyze stock performance, daily returns, cumulative returns, and volatility, leveraging Python libraries for data manipulation, visualization, and financial analysis. By employing statistical methods and regression techniques, I compared the stock behaviors, identified trends, and evaluated the stability of each stock in terms of risk and returns.
